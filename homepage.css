@@ -65,7 +65,8 @@
 }
 
 .navbar {
-    background-color: black
+    background-color: black;
+    margin: auto;
 }
 .navbar-nav{
     background-color    : black;
